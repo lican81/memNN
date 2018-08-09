@@ -31,15 +31,16 @@ Copyright (c) 2018,
 Department of Electrical and Computer Engineering, University of Massachusetts Amherst
 All rights reserved.
 
+
+PI: Prof. Qiangfei Xia (Email: qxia at umass dot com
+                        Website: http://nano.ecs.umass.edu); 
+    Prof. J. Joshua Yang (Email: jjyang at umass dot com
+                        Website: http://www.ecs.umass.edu/ece/jjyang/)
+                        
 Created by 
     Can Li (Email: me at ilican dot com
             Website: http://ilican.com)
     Daniel Belkin, Zhongrui Wang, Wenhao Song
-
-PI: Prof. Qiangfei Xia (Email: qxia at umass dot com
-                        Website: http://nano.ecs.umass.edu)
-    Prof. J. Joshua Yang (Email: jjyang at umass dot com
-                        Website: http://www.ecs.umass.edu/ece/jjyang/)
 
 LICENSE
 
