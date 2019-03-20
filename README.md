@@ -3,7 +3,8 @@ A neural network framework for running with memristor crossbar.
 
 This code is partly to support the LSTM experiment in the submitted manuscript: 
 
-Li, C. et al, Long short-term memory networks in memristor crossbars, under revision, preprint available at: https://arxiv.org/abs/1805.11801
+Li, C. et al, Long short-term memory networks in memristor crossbar arrays, Nature Machine Intelligence 1, 49–57 (2019). Link: https://doi.org/10.1038/s42256-018-0001-4
+preprint available at: https://arxiv.org/abs/1805.11801
 
 # SYSTEM REQUIREMENT
 The codes have been tested on the following operation system, but they should support other OS.
